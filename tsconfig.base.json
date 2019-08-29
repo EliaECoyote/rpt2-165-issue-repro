@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "importHelpers": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
